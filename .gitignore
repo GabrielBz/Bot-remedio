@@ -1,0 +1,38 @@
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Ambiente local do WhatsApp Web JS
+.wwebjs_auth/
+
+# Histórico
+historico.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+log.txt
+
+# Arquivos temporários
+tmp/
+temp/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Render
+*.render/
